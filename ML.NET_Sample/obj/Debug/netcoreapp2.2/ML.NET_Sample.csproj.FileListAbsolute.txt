@@ -1,0 +1,11 @@
+C:\Users\auysa\source\repos\ML.NET_Sample\ML.NET_Sample\bin\Debug\netcoreapp2.2\ML.NET_Sample.deps.json
+C:\Users\auysa\source\repos\ML.NET_Sample\ML.NET_Sample\bin\Debug\netcoreapp2.2\ML.NET_Sample.runtimeconfig.json
+C:\Users\auysa\source\repos\ML.NET_Sample\ML.NET_Sample\bin\Debug\netcoreapp2.2\ML.NET_Sample.runtimeconfig.dev.json
+C:\Users\auysa\source\repos\ML.NET_Sample\ML.NET_Sample\bin\Debug\netcoreapp2.2\ML.NET_Sample.dll
+C:\Users\auysa\source\repos\ML.NET_Sample\ML.NET_Sample\bin\Debug\netcoreapp2.2\ML.NET_Sample.pdb
+C:\Users\auysa\source\repos\ML.NET_Sample\ML.NET_Sample\obj\Debug\netcoreapp2.2\ML.NET_Sample.csprojAssemblyReference.cache
+C:\Users\auysa\source\repos\ML.NET_Sample\ML.NET_Sample\obj\Debug\netcoreapp2.2\ML.NET_Sample.csproj.CoreCompileInputs.cache
+C:\Users\auysa\source\repos\ML.NET_Sample\ML.NET_Sample\obj\Debug\netcoreapp2.2\ML.NET_Sample.AssemblyInfoInputs.cache
+C:\Users\auysa\source\repos\ML.NET_Sample\ML.NET_Sample\obj\Debug\netcoreapp2.2\ML.NET_Sample.AssemblyInfo.cs
+C:\Users\auysa\source\repos\ML.NET_Sample\ML.NET_Sample\obj\Debug\netcoreapp2.2\ML.NET_Sample.dll
+C:\Users\auysa\source\repos\ML.NET_Sample\ML.NET_Sample\obj\Debug\netcoreapp2.2\ML.NET_Sample.pdb
